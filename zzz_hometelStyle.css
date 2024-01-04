@@ -1,0 +1,19 @@
+.custom_btn1{
+  font-size: 1.85vw;
+  margin-top: 1.2vh;
+  margin-bottom: 2.8vh;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  padding-left: 1.25vw;
+  background-color: transparent;
+  border: none;
+  height:50px;
+  transition: background-color 0.3s ease; 
+
+}
+
+.custom_btn1:hover{
+  
+      background-color: #798fb5; /* New color on hover */
+      height: 50px;
+}
